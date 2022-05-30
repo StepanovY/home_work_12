@@ -34,5 +34,9 @@
   {
     "pic": "/uploads/images/котик.jpg",
     "content": "котик"
+  },
+  {
+    "pic": "/uploads/images/adult-swim.jpg",
+    "content": "135"
   }
 ]
